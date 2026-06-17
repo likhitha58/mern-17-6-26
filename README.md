@@ -22,14 +22,3 @@ A simple Pet Store website built using React.
 * React
 * JavaScript
 * CSS
-
-## Installation
-
-```bash
-npm install
-npm run dev
-```
-
-## Author
-
-Likhitha Tanuboddi
